@@ -1,0 +1,41 @@
+header
+{
+    top: 0px;
+    position: fixed;
+    width: 100%;
+    height: 70px; 
+    background-color: #000000;
+    z-index: 1;
+    text-align: center;
+    color: crimson;
+    
+    
+}
+
+body
+{
+    background-image: url("https://i.pinimg.com/originals/0e/7c/26/0e7c2664470f072f0245117965d977b3.jpg");
+    background-size: 1444px 790px;
+    background-repeat: no-repeat;
+}
+
+section
+{
+    background-color: rgba(255, 255, 255, 0.400);
+}
+
+section img
+{
+    padding-left: 40%;
+}
+
+article
+{
+    background-color: rgba(255, 255, 255, 0.400);
+}
+.audio 
+{
+    background-color: rgba(255, 255, 255, 0.400);
+}
+
+
